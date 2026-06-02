@@ -23,7 +23,7 @@ Este projeto foi desenvolvido utilizando um ESP32 para controlar LEDs através d
 
 ## 🔌 Esquema do Circuito
 
-![Circuito](circuito.png)
+![imagempush](https://github.com/kamillymartins/PUSH.BOTTON/blob/main/imagempushbotton.png)
 
 > Salve a imagem do circuito com o nome **circuito.png** na pasta do projeto para que ela apareça no GitHub.
 
